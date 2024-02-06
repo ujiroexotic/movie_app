@@ -19,7 +19,7 @@ Here's the list of packages and libraries used in this project:
 - "react-select"
 - "sass"
 
-## Demo
+## Screenshots
 
 ![Hero Banner](https://firebasestorage.googleapis.com/v0/b/shopper-api-storage.appspot.com/o/Screenshot%202024-02-02%20110629.png?alt=media&token=393d2107-d4d3-4cbe-8cc8-53f35d550605)
 
