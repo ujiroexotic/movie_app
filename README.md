@@ -54,7 +54,7 @@ Contributions are welcome and appreciated! To contribute to the Movix project, p
 2. **Clone** your forked repository to your local machine. Replace `<your-username>` with your GitHub username:
 
    ```bash
-   git clone https://github.com/AmeenHamza/Movie-App
+   git clone https://github.com/ujiroexotic/movie-app
 
    cd movix-project
 
