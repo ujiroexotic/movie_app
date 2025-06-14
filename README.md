@@ -21,14 +21,6 @@ Here's the list of packages and libraries used in this project:
 
 ## Screenshots
 
-![Hero Banner](https://firebasestorage.googleapis.com/v0/b/shopper-api-storage.appspot.com/o/Screenshot%202024-02-02%20110629.png?alt=media&token=393d2107-d4d3-4cbe-8cc8-53f35d550605)
-
-![Alt Text](https://firebasestorage.googleapis.com/v0/b/shopper-api-storage.appspot.com/o/Screenshot%202024-02-02%20111156.png?alt=media&token=b6df3da1-5ed6-43c1-8008-cfebe8b44604)
-
-![Detail Page](https://firebasestorage.googleapis.com/v0/b/shopper-api-storage.appspot.com/o/Screenshot%202024-02-02%20111241.png?alt=media&token=2f54d188-bcd0-428c-ad10-42deaba87c67)
-
-![Cast Section](https://firebasestorage.googleapis.com/v0/b/shopper-api-storage.appspot.com/o/Screenshot%202024-02-02%20111252.png?alt=media&token=7c709cc2-b71f-48b1-96bc-297f1836e2f7)
-
 
 ## Clone the Repository
 
