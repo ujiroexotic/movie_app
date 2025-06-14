@@ -1,4 +1,4 @@
-# Movix
+# MovisFlix
 
 This repository contains my latest project, Movix, a movie application built using React with full responsiveness. Movix utilizes the TMDb API to display a wide range of movies, TV shows, and more. Explore and enjoy a seamless viewing experience with Movix!
 
