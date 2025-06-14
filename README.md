@@ -40,7 +40,7 @@ Navigate to the directory where you want to clone the project.
 
 Use the following command to clone the repository:
 
-- `git clone https://github.com/AmeenHamza/Movie-App`
+- `git clone https://github.com/ujiroexotic/movie-app`
 
 - `npm or yarn install`
 - `npm run dev
@@ -86,5 +86,6 @@ You will get it from `https://www.themoviedb.org/settings/api`
 
 ## Authors
 
-- [@Ameen Hamza](https://www.github.com/AmeenHamza)
+- [@Ujiro Eruteya](https://www.github.com/ujiroexotic)
 
+# movie_app
