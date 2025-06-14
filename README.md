@@ -1,6 +1,6 @@
-# MovisFlix
+# Movisflix
 
-This repository contains my latest project, Movix, a movie application built using React with full responsiveness. Movix utilizes the TMDb API to display a wide range of movies, TV shows, and more. Explore and enjoy a seamless viewing experience with Movix!
+This repository contains my latest project, Movisflix, a movie application built using React with full responsiveness. Movisflix utilizes the TMDb API to display a wide range of movies, TV shows, and more. Explore and enjoy a seamless viewing experience with Movisflix!
 
 Here's the list of packages and libraries used in this project:
 
@@ -39,7 +39,7 @@ Use the following command to clone the repository:
 
 ## Contribution Guidelines
 
-Contributions are welcome and appreciated! To contribute to the Movix project, please follow these steps:
+Contributions are welcome and appreciated! To contribute to the Movisflix project, please follow these steps:
 
 1. **Fork** the repository by clicking the "Fork" button on the top right corner of this page.
 
@@ -48,7 +48,7 @@ Contributions are welcome and appreciated! To contribute to the Movix project, p
    ```bash
    git clone https://github.com/ujiroexotic/movie-app
 
-   cd movix-project
+   cd Movisflix
 
 - Create a new branch for your contribution. Replace <branch-name> with a descriptive name for your branch:
 
